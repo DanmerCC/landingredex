@@ -231,7 +231,7 @@ a.btn.white_btn:hover {
 }
 
 a.btn.main_bt, button.btn.main_bt {
-    background: #3c5c9e;
+    background: #121631;
     border: none;
 }
 
@@ -338,7 +338,7 @@ h2 {
 }
 
 #accordion .panel.panel-default .panel-heading p a[aria-expanded="false"] i {
-    color: #3c5c9e !important;
+    color: #121631 !important;
 }
 
 @media (min-width:992px) and (max-width:1199px) {
